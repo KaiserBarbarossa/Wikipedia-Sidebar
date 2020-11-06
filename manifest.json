@@ -1,0 +1,20 @@
+{
+
+  "manifest_version": 2,
+  "name": "Wikipedia Sidebar",
+  "description": "Displays Wikipedia in a sidebar.",
+  "version": "1.0",
+  "browser_specific_settings": {
+    "gecko": {
+      "strict_min_version": "54.0a1"
+    }
+  },
+
+
+  "sidebar_action": {
+    "default_icon": "icons/wikipedia.png",
+    "default_title" : "Wikipedia",
+    "default_panel": "sidebar/panel.html"
+  }
+  
+}
