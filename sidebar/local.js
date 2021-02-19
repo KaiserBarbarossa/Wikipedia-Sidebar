@@ -1,3 +1,4 @@
+// supported wikipedias: {ar, de, en, es, fr, it, arz, nl, ja, pl, ru, ceb, sv, uk, vi, ja, war, zh}.m.wikipedia.org
 if (navigator.language == 'ar') {
 	window.location = "https://ar.m.wikipedia.org/"
 }
