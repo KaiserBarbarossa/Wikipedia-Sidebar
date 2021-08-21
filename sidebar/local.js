@@ -1,5 +1,3 @@
-// supported wikipedias: {ar, de, en, es, fr, it, arz, nl, ja, pl, ru, ceb, sv, uk, vi, ja, war, zh}.m.wikipedia.org
-
 const lang = ['ar', 'de', 'en', 'es', 'fr', 'it', 'arz', 'nl', 'ja', 'pl', 'ru',
     'ceb', 'sv', 'uk', 'vi', 'ja', 'war', 'zh'];
 
