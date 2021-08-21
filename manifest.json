@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "Wikipedia Sidebar",
   "description": "Displays Wikipedia in a sidebar.",
-  "version": "1.2",
+  "version": "2.0",
   "browser_specific_settings": {
     "gecko": {
       "strict_min_version": "54.0a1"
